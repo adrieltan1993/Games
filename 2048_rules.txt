@@ -1,0 +1,5 @@
+4 by 4 grid
+each cell contains one number - powers of 2
+4 directions (up down left right) - ALL cells shift in the same direction
+cells combine if they have the same number - new numbers = sum of 2 numbers (current number * 2)
+randomly generate ONE cell in the empty spaces AFTER shifting
